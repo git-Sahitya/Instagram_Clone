@@ -28,6 +28,6 @@ app.get("/", (req, res) => {
 
 app.listen(PORT, () => {
 
-    console.log(`Server listen at port ${PORT}`);
+    console.log(`📡 Server listen at PORT ${PORT}`);
 
 })
